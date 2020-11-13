@@ -1,0 +1,900 @@
+Uri: https://gapuratheme.themesawesome.com/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/facilities-1.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\facilities-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/feed/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://gapuratheme.themesawesome.com/comments/feed/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-includes/css/dist/block-library/style.min.css
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/contact-form-7/includes/css/styles.css
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/plugin.css
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\plugin.css
+Content Type: text/css
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/responsive.css
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\responsive.css
+Content Type: text/css
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/style.css
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\style.css
+Content Type: text/css
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/font.css
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\font.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open Sans&display=swap&ver=1586442025
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\css.css
+Content Type: text/css
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/wp/v2/pages/1579
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\wp\v2\pages\1579.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2020/08/cropped-fav-icon-32x32.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2020\08\cropped-fav-icon-32x32.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2020/08/cropped-fav-icon-192x192.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2020\08\cropped-fav-icon-192x192.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2020/08/cropped-fav-icon-180x180.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2020\08\cropped-fav-icon-180x180.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/?room=living-room
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-1.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/?room=dining-room
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-2.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/?room=kitchen
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-3.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/?room=chat-room
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-4.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/?room=master-badroom
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-5.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/?room=bathroom
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-6.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/?room=reading-room
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-7.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/?room=theatre-room
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-8.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/?room=garage
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-9.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/latest-news/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\latest-news\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/contact-agent/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\contact-agent\index.htm
+Content Type: text/html
+
+Uri: https://themeforest.net/item/single-property-wordpress-theme-gapura/13687085?ref=themesawesome
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\item\single-property-wordpress-theme-gapura\13687085.html
+Content Type: text/html
+
+Uri: https://twitter.com/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-10.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-14.htm
+Content Type: text/html
+
+Uri: https://themesawesome.com/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-16.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/stylepublic.css
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\stylepublic.css
+Content Type: text/css
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/jquery-ui-1.8.20.custom.css
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\jquery-ui-1.8.20.custom.css
+Content Type: text/css
+
+Uri: https://gapuratheme.themesawesome.com/cdn-cgi/apps/head/8bp9A8vg108JW-YxQQt7TGIZ-ac.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\cdn-cgi\apps\head\8bp9A8vg108JW-YxQQt7TGIZ-ac.js
+Content Type: application/javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-includes/js/jquery/jquery.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-includes\js\jquery\jquery.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/logo.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\logo.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/slide-lg-1.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\slide-lg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/slide-lg-2.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\slide-lg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/slide-lg-3.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\slide-lg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/slide-lg-4.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\slide-lg-4.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/slide-lg-5.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\slide-lg-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.youtube.com/embed/CludR4INjMs
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\embed\CludR4INjMs.html
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/image1.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\image1.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/image2.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\image2.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/image3.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\image3.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/image4.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\image4.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/image5.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\image5.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/image6.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\image6.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/image7.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\image7.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/image8.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\image8.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/image9.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\image9.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/contact-form-7/includes/js/scripts.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/js/plugins.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\js\plugins.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/js/main.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/js/easing.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\js\easing.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-includes/js/jquery/ui/core.min.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-includes/js/jquery/ui/widget.min.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-includes\js\jquery\ui\widget.min.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-includes/js/jquery/ui/button.min.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-includes\js\jquery\ui\button.min.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-includes/js/jquery/ui/position.min.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-includes\js\jquery\ui\position.min.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-includes/js/jquery/ui/tooltip.min.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-includes\js\jquery\ui\tooltip.min.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-includes/js/jquery/ui/datepicker.min.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-includes\js\jquery\ui\datepicker.min.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-includes/js/jquery/ui/mouse.min.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-includes\js\jquery\ui\mouse.min.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-includes/js/jquery/ui/slider.min.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-includes\js\jquery\ui\slider.min.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/js/jQuery.stringify.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\js\jQuery.stringify.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/js/jquery.validate.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\js\jquery.validate.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/js/cache/all.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\js\cache\all.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/contact-form-7/assets/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\contact-form-7\assets\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/flexslider-icon.eot
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\flexslider-icon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/flexslider-icon.eot?
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\flexslider-icon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/flexslider-icon.woff
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\flexslider-icon.woff
+Content Type: application/font-woff
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/flexslider-icon.ttf
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\flexslider-icon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/flexslider-icon.svg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\flexslider-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/img/status.gif
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\img\status.gif
+Content Type: image/gif
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/img/title-separator.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\img\title-separator.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/img/search.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\img\search.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/fontawesome-webfont.eot?v=4.2.0
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/fontawesome-webfont.woff?v=4.2.0
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/fontawesome-webfont.ttf?v=4.2.0
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/fontawesome-webfont.svg?v=4.2.0
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-black-webfont.eot
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-black-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-black-webfont.eot?
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-black-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-black-webfont.woff2
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-black-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-black-webfont.woff
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-black-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-black-webfont.ttf
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-black-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-black-webfont.svg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-black-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-bold-webfont.eot
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-bold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-bold-webfont.eot?
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-bold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-bold-webfont.woff2
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-bold-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-bold-webfont.woff
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-bold-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-bold-webfont.ttf
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-bold-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-bold-webfont.svg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-bold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-light-webfont.eot
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-light-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-light-webfont.eot?
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-light-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-light-webfont.woff2
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-light-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-light-webfont.woff
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-light-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-light-webfont.ttf
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-light-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-light-webfont.svg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-light-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-regular-webfont.eot
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-regular-webfont.eot?
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-regular-webfont.woff2
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-regular-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-regular-webfont.woff
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-regular-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-regular-webfont.ttf
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-regular-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/lato-regular-webfont.svg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\lato-regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/gapura.eot
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\gapura.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/gapura.eot?
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\gapura-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/gapura.woff
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\gapura.woff
+Content Type: application/font-woff
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/gapura.ttf
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\gapura.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/themes/gapura/css/fonts/gapura.svg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\themes\gapura\css\fonts\gapura.svg
+Content Type: image/svg+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/roomdetail.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\roomdetail.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dliving-room
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dliving-room&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/11-653x410.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\11-653x410.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/21-653x410.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\21-653x410.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/31-653x410.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\31-653x410.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Ddining-room
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Ddining-room&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dkitchen
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dkitchen&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dchat-room
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dchat-room&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dmaster-badroom
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dmaster-badroom&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dbathroom
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dbathroom&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dreading-room
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dreading-room&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dtheatre-room
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dtheatre-room&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dgarage
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-9.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2F%3Froom%3Dgarage&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-9.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2011/05/blog.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2011\05\blog.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/a-last-look-behind-ready-to-sacrifice-what-once-was-precious/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\a-last-look-behind-ready-to-sacrifice-what-once-was-precious\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/author/danielzedda/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\author\danielzedda\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/category/uncategorized/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/2015/11/06/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\2015\11\06\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/stuff-youll-do-and-never-regret-it/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\stuff-youll-do-and-never-regret-it\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/2015/11/05/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\2015\11\05\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/a-few-of-those-who-can-create-and-stuff/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\a-few-of-those-who-can-create-and-stuff\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/2015/11/04/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\2015\11\04\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/while-the-most-wonders-we-create/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\while-the-most-wonders-we-create\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/2015/11/03/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\2015\11\03\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/speaking-of-the-things-that-could-change-you/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\speaking-of-the-things-that-could-change-you\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/2015/11/02/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\2015\11\02\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/blessed-with-a-curse-so-empty-to-do-something-about-it/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\blessed-with-a-curse-so-empty-to-do-something-about-it\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/2015/11/01/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\2015\11\01\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/blog1.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/blog2.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/blog3.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/blog4.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\blog4.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/blog5.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\blog5.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/blog6.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\blog6.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/blog1-300x169.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\blog1-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/blog2-300x169.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\blog2-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/blog3-300x169.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\blog3-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/blog4-300x169.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\blog4-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/blog5-300x169.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\blog5-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/blog6-300x169.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\blog6-300x169.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/1.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\1.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/wp/v2/pages/1672
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\wp\v2\pages\1672.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2Fcontact-agent%2F
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-10.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2Fcontact-agent%2F&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-10.xml
+Content Type: text/xml
+
+Uri: https://www.facebook.com/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-17.htm
+Content Type: text/html
+
+Uri: https://www.skype.com/en/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\en\index.htm
+Content Type: text/html
+
+Uri: https://dribbble.com/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-18.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/agent-img.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\agent-img.jpg
+Content Type: image/jpeg
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.6059057591483!2d107.63407421482312!3d-6.937614069840013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68e86e2acbf353:0x68e3efb164a5f3de!2sJl.+Aries%2C+Batununggal%2C+Kota+Bandung%2C+Jawa+Barat+40275!5e0!3m2!1sen!2sid!4v1447302562617
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\maps\embed.html
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/agent-img-300x213.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\agent-img-300x213.jpg
+Content Type: image/jpeg
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/uploads/sites/17/2015/11/agent-img-1024x728.jpg
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\uploads\sites\17\2015\11\agent-img-1024x728.jpg
+Content Type: image/jpeg
+
+Uri: https://www.google.com/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-11.htm
+Content Type: text/html
+
+Uri: https://www.linkedin.com/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-12.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\index-15.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/images/tooltop.gif
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\images\tooltop.gif
+Content Type: image/gif
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\images\ui-bg_highlight-hard_100_f2f5f7_1x100.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\images\ui-bg_highlight-soft_100_deedf7_1x100.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\images\ui-bg_glass_80_d7ebf9_1x400.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\images\ui-bg_glass_100_e4f1fb_1x400.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/images/ui-bg_glass_50_3baae3_1x400.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\images\ui-bg_glass_50_3baae3_1x400.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\images\ui-bg_highlight-soft_25_ffef8f_1x100.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/images/ui-bg_flat_15_cd0a0a_40x100.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\images\ui-bg_flat_15_cd0a0a_40x100.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/images/ui-icons_72a7cf_256x240.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\images\ui-icons_72a7cf_256x240.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/images/ui-icons_3d80b3_256x240.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\images\ui-icons_3d80b3_256x240.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/images/ui-icons_2694e8_256x240.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\images\ui-icons_2694e8_256x240.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/images/ui-icons_ffffff_256x240.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/images/ui-icons_2e83ff_256x240.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\images\ui-icons_2e83ff_256x240.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\images\ui-bg_diagonals-thick_90_eeeeee_40x40.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/wp-content/plugins/calculated-fields-form/css/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-content\plugins\calculated-fields-form\css\cupertino\images\ui-bg_highlight-hard_70_000000_1x100.png
+Content Type: image/png
+
+Uri: https://gapuratheme.themesawesome.com/a-last-look-behind-ready-to-sacrifice-what-once-was-precious/feed/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\a-last-look-behind-ready-to-sacrifice-what-once-was-precious\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/wp/v2/posts/1761
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\wp\v2\posts\1761.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2Fa-last-look-behind-ready-to-sacrifice-what-once-was-precious%2F
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-11.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2Fa-last-look-behind-ready-to-sacrifice-what-once-was-precious%2F&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-11.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/tag/story/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\tag\story\index.htm
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/wp-includes/js/comment-reply.min.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: https://gapuratheme.themesawesome.com/author/danielzedda/feed/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\author\danielzedda\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/wp/v2/users/101218
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\wp\v2\users\101218.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/category/uncategorized/feed/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\category\uncategorized\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\wp\v2\categories\1.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/stuff-youll-do-and-never-regret-it/feed/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\stuff-youll-do-and-never-regret-it\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/wp/v2/posts/1758
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\wp\v2\posts\1758.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2Fstuff-youll-do-and-never-regret-it%2F
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-12.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2Fstuff-youll-do-and-never-regret-it%2F&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-12.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/a-few-of-those-who-can-create-and-stuff/feed/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\a-few-of-those-who-can-create-and-stuff\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/wp/v2/posts/1755
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\wp\v2\posts\1755.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2Fa-few-of-those-who-can-create-and-stuff%2F
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-13.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2Fa-few-of-those-who-can-create-and-stuff%2F&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-13.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/while-the-most-wonders-we-create/feed/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\while-the-most-wonders-we-create\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/wp/v2/posts/1751
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\wp\v2\posts\1751.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2Fwhile-the-most-wonders-we-create%2F
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-14.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2Fwhile-the-most-wonders-we-create%2F&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-14.xml
+Content Type: text/xml
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\beacon.min.js
+Content Type: text/javascript
+
+Uri: https://gapuratheme.themesawesome.com/speaking-of-the-things-that-could-change-you/feed/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\speaking-of-the-things-that-could-change-you\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/wp/v2/posts/1749
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\wp\v2\posts\1749.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2Fspeaking-of-the-things-that-could-change-you%2F
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-15.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2Fspeaking-of-the-things-that-could-change-you%2F&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-15.xml
+Content Type: text/xml
+
+Uri: https://gapuratheme.themesawesome.com/blessed-with-a-curse-so-empty-to-do-something-about-it/feed/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\blessed-with-a-curse-so-empty-to-do-something-about-it\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/wp/v2/posts/1746
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\wp\v2\posts\1746.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2Fblessed-with-a-curse-so-empty-to-do-something-about-it%2F
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-16.json
+Content Type: application/json
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fgapuratheme.themesawesome.com%2Fblessed-with-a-curse-so-empty-to-do-something-about-it%2F&format=xml
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\oembed\1.0\embed-16.xml
+Content Type: text/xml
+
+Uri: https://accounts.google.com/ServiceLogin?passive=1209600&osid=1&continue=https://plus.google.com/&followup=https://plus.google.com/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\ServiceLogin.html
+Content Type: text/html
+
+Uri: https://gapuratheme.themesawesome.com/tag/story/feed/
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\tag\story\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://gapuratheme.themesawesome.com/wp-json/wp/v2/tags/314
+File Name: C:\Downloaded Web Sites\gapuratheme.themesawesome.com\wp-json\wp\v2\tags\314.json
+Content Type: application/json
+
